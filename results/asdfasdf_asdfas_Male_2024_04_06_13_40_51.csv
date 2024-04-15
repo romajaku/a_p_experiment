@@ -1,0 +1,9 @@
+trial_type,trial_number,sentence,rt,correct_answer,answer,acc
+training,0,Kwiaty rosn¹ pod wod¹.,243,False,True,0
+training,1,Deszcz pada w kuchni.,160,False,False,1
+training,2,Ptak lata nad chmurami.,174,True,True,1
+training,3,Kot p³ywa w basenie.,213,True,False,0
+training,4,S³oñce œwieci na niebie.,243,True,True,1
+training,5,Woda p³ynie do góry.,210,False,False,1
+training,6,Dziecko bawi siê klockami.,158,True,True,1
+training,7,Ksi¹¿ka le¿y na ksiê¿ycu.,234,False,False,1

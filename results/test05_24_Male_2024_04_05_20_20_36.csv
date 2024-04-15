@@ -1,0 +1,9 @@
+trial_type,trial_number,sentence,rt,correct_answer,answer,acc
+training,0,Ptak lata nad chmurami.,112,True,True,1
+training,1,Kot pływa w basenie.,126,True,True,1
+training,2,Książka leży na księżycu.,75,False,True,0
+training,3,Woda płynie do góry.,107,False,False,1
+training,4,Deszcz pada w kuchni.,139,False,False,1
+training,5,Dziecko bawi się klockami.,128,True,True,1
+training,6,Słońce świeci na niebie.,78,True,False,0
+training,7,Kwiaty rosną pod wodą.,41,False,True,0
