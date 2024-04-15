@@ -1,0 +1,2 @@
+Czy zdanie jest prawdziwe?
+Lewo znaczy Tak, Prawo znaczny Nie

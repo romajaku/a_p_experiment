@@ -1,0 +1,3 @@
+Odpamiętywanie
+Zareaguj na to, czy zdanie się pojawiło.
+Lewo znaczy Tak, Prawo znaczny Nie

@@ -1,9 +1,0 @@
-trial_type,trial_number,sentence,rt,correct_answer,answer,acc
-training,0,Ksi¹¿ka le¿y na ksiê¿ycu.,271,False,False,1
-training,1,S³oñce œwieci na niebie.,258,True,True,1
-training,2,Kwiaty rosn¹ pod wod¹.,183,False,False,1
-training,3,Ptak lata nad chmurami.,-1,True,-1,0
-training,4,Dziecko bawi siê klockami.,0,True,True,1
-training,5,Kot p³ywa w basenie.,-1,True,-1,0
-training,6,Woda p³ynie do góry.,169,False,False,1
-training,7,Deszcz pada w kuchni.,166,False,False,1

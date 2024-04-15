@@ -1,8 +1,362 @@
-Ptak lata nad chmurami.;True
-Słońce świeci na niebie.;True
-Kot pływa w basenie.;True
-Dziecko bawi się klockami.;True
-Deszcz pada w kuchni.;False
-Książka leży na księżycu.;False
-Kwiaty rosną pod wodą.;False
-Woda płynie do góry.;False
+Głowa zawiera mózg. ;True
+Włosy rosną na głowie. ;True
+Oczy to część głowy.;True
+Nos służy do oddychania. ;True
+Ucho umożliwia słyszenie. ;True
+Policzki mają kolor skóry.;True
+Podbródek znajduje się pod ustami. ;True
+Wargi otaczają usta. ;True
+Język umożliwia smakowanie. ;True
+Ząb służy do gryzienia. ;True
+Gardło łączy nos z przełykiem. ;False
+Czoło znajduje się na potylicy. ;False
+Oko umożliwia dotyk.;False
+Brew to część czoła. ;False
+Nozdrza umożliwiają oddychanie.;True
+Szyja łączy głowę z tułowiem. ;True
+Klatka piersiowa chroni serce.;True
+Brzuch jest częścią ciała. ;True
+Żebra chronią płuca.;True
+Talia to część kręgosłupa.;False
+Plecy łączą tułów z głową. ;False
+Kręgosłup jest elastyczny. ;True
+Bark to górna część tułowia. ;True
+Pacha znajduje się pod ręką. ;True
+Sutki są widoczne u mężczyzn. ;False
+Pępek jest środkiem tułowia.;True
+Brzuch zawiera narządy trawienne. ;True
+Żołądek trawi pokarm. ;True
+ Serce pompuje krew. ;True
+Płuca umożliwiają oddychanie. ;True
+Nerka filtruje mocz. ;True
+Wątroba produkuje krew. ;False
+Jelita trawią pokarm. ;True
+Jelito grube wchłania wodę. ;True
+Jelito cienkie wchłania składniki odżywcze.;True
+Mózg kontroluje ciało.;True
+Wątroba magazynuje energię. ;False
+Nerka znajduje się w klatce piersiowej. ;False
+Ramię łączy rękę z tułowiem. ;True
+Dłoń składa się z palców. ;True
+Paznokcie chronią palce. ;True
+Kciuk jest największym palcem.;True
+Łokieć umożliwia zginanie ramienia. ;True
+Nadgarstek znajduje się na dłoni. ;False
+Ramiona są częścią nóg. ;False
+Palce mają mięśnie. ;True
+Dłoń umożliwia chwytanie.;True
+Paznokcie są naturalnie koloru zielonego. ;False
+Biodro łączy nogę z tułowiem.;True
+Kolano umożliwia zginanie nogi. ;True
+Stopa składa się z palców. ;True
+Pięta jest częścią stopy. ;True
+Pośladki są na końcu nogi. ;False
+Kostka stabilizuje stopę. ;True
+Lydka jest częścią ręki. ;False
+Palec u nogi jest największy. ;False
+Noga umożliwia chodzenie. ;True
+ Skóra chroni ciało.;True
+Mięśnie umożliwiają ruch. ;True
+Krew transportuje substancje. ;True
+Kość stanowi szkielet. ;True
+Tętnica prowadzi krew z serca. ;True
+Żyła odprowadza krew do serca. ;True
+Miesiąc składa się z 30 dni. ;False
+W styczniu są długie dni. ;False
+Luty jest ostatnim miesiącem roku. ;False
+Marzec jest miesiącem lata.;False
+W kwietniu rosną kwiaty. ;True
+W maju jest Boże Narodzenie. ;False
+W czerwcu jest Halloween. ;False
+W lipcu jest Dzień Dziecka. ;False
+W sierpniu są długie noce.;True
+We wrześniu zaczyna się zima. ;False
+W październiku są krótkie dni. ;False
+W listopadzie opadają liście.;True
+W grudniu jest Wigilia.;True
+W każdym miesiącu jest 28 dni. ;False
+Pokój służy do odpoczynku.;True
+Sypialnia jest miejscem snu. ;True
+Garderoba służy do przechowywania ubrań. ;True
+Łazienka służy do kąpieli. ;True
+Kuchnia jest miejscem przygotowywania posiłków. ;True
+Jadalnia służy do spożywania posiłków.;True
+Salon jest miejscem spotkań rodzinnych. ;True
+Pokój dziecięcy jest przeznaczony dla dzieci.;True
+Przedpokój to wejście do domu. ;True
+Gabinet jest miejscem pracy.;True
+Okno umożliwia dostęp światła.;True
+Szyba chroni przed wiatrem.;True
+Parapet jest na zewnątrz budynku. ;False
+Drzwi są częścią okna. ;False
+Klamka służy do otwierania okna.;False
+Ściana ma okno.;True
+Podłoga znajduje się pod oknem.;True
+Sufit znajduje się nad oknem. ;True
+Roleta zasłania okno. ;True
+Okno jest często otwierane.;True
+ Komputer służy do wykonywania zadań. ;True
+Ekran wyświetla informacje. ;True
+Klawiatura umożliwia wprowadzanie tekstu. ;True
+Mysz służy do sterowania kursorem. ;True
+Lekarz zajmuje się leczeniem pacjentów. ;True
+Nauczyciel uczy uczniów w szkole. ;True
+Kucharz przygotowuje potrawy w restauracji.;True
+Sprzedawca obsługuje klientów w sklepie.;True
+Inżynier projektuje nowe rozwiązania techniczne.;True
+Pielęgniarka opiekuje się pacjentami w szpitalu. ;True
+Programista tworzy oprogramowanie komputerowe. ;True
+Artysta tworzy dzieła sztuki. ;True
+Mechanik naprawia samochody. ;True
+Nauczyciel zawsze ma wolne w weekendy.;False
+Kucharz zawsze gotuje w domu. ;False
+Sprzedawca zawsze ma stałe godziny pracy.;False
+Pielęgniarka może wykonywać zadania administracyjne. ;True
+Policjant może prowadzić samochód policyjny. ;True
+Programista zawsze pracuje samodzielnie.;False
+Artysta może zajmować się sztuką wizualną. ;True
+"Ludzie czasem kłamią; by uniknąć kary.";True
+Często uśmiech jest oznaką radości. ;True
+Wściekłość może prowadzić do agresji. ;True
+Ludzie często szukają akceptacji innych. ;True
+Zazdrość może prowadzić do negatywnych zachowań. ;True
+Ciekawość motywuje ludzi do eksploracji. ;True
+Ludzie czasem unikają konfrontacji ze strachem. ;True
+Empatia pozwala na zrozumienie innych osób. ;True
+Uśmiech może być fałszywy. ;True
+Ludzie czasem ukrywają swoje prawdziwe uczucia.;True
+Kurtka zimowa jest odpowiednia na upał. ;False
+Rajstopy są noszone na ręce. ;False
+Sukienka jest typowym męskim ubraniem. ;False
+Kozaki są często noszone latem. ;False
+Szalik jest noszony głównie wokół talii. ;False
+Marynarka zawsze noszona jest na nogach. ;False
+Kapelusz zazwyczaj noszony jest na głowie. ;True
+Spódnica jest zawsze krótsza od sukienki.;False
+T-shirt jest popularny latem. ;True
+Szorty są idealne na chłodne dni. ;False
+Bluza chroni przed zimnem. ;True
+Koszula często ma kołnierzyk.;True
+Kurtka przeciwdeszczowa chroni przed deszczem. ;True
+Kapelusz zwykle nosi się na głowie. ;True
+Sukienka jest typowo damskim ubraniem. ;True
+Sweter chroni przed zimnem. ;True
+Buty sportowe są wygodne podczas biegania.;True
+Szalik jest noszony zazwyczaj na szyi. ;True
+Marynarka jest często noszona do garnituru.;True
+Spódnica zazwyczaj jest dłuższa od spodenek. ;True
+Rękawiczki chronią dłonie przed zimnem. ;True
+Koszula nocna noszona jest na noc. ;True
+Sukienka koktajlowa jest popularna na imprezy. ;True
+Kurtka skórzana jest popularna wśród motocyklistów. ;True
+Kapelusz panama jest idealny na lato. ;True
+Buty trekkingowe są wygodne podczas wędrówek. ;True
+Sweter z golfem ma wysoki kołnierz. ;True
+Szorty są popularne latem. ;True
+Krawat zwykle nosi się na szyi. ;True
+Spodnie dresowe są wygodne podczas wypoczynku. ;True
+Marynarka jest często noszona do spodni.;True
+Spódnica mini jest krótka.;True
+Sweter zazwyczaj ma długie rękawy. ;True
+T-shirt jest zazwyczaj wykonany z bawełny. ;True
+Kurtka zimowa jest ciepła. ;True
+Czapka chroni głowę przed słońcem. ;True
+Rękawiczki są noszone na rękach. ;True
+Koszula zwykle ma guziki. ;True
+Sukienka wieczorowa jest elegancka. ;True
+Spodnie jeansowe są trwałe. ;True
+Krawat jest noszony na szyi.;True
+Sweter jest miękki i ciepły. ;True
+Buty sportowe są wygodne podczas spaceru. ;True
+Szalik chroni szyję przed zimnem. ;True
+Marynarka jest noszona w celach formalnych. ;True
+Spódnica jest krótsza od sukienki. ;True
+Kurtka przeciwdeszczowa jest wodoodporna. ;True
+Rękawiczki mają zazwyczaj palce. ;True
+Koszula jest często noszona w pracy.;True
+Sukienka letnia jest lekka i przewiewna. ;True
+Płuca służą do oddychania. ;True
+Serce jest odpowiedzialne za pompowanie krwi. ;True
+Nerka filtruje krew. ;True
+Wątroba pomaga w trawieniu. ;True
+Jelita biorą udział w procesie trawienia. ;True
+Jelito grube przyspiesza proces trawienia. ;False
+Nerka jest częścią układu moczowego. ;True
+Płuca produkuje czerwoną krew. ;False
+Serce znajduje się w jamie brzusznej. ;False
+Wątroba jest największym narządem wewnętrznym człowieka. ;True
+Jelita znajdują się w jamie brzusznej. ;True
+Serce jest umiejscowione w klatce piersiowej. ;True
+Płuca filtrują krew. ;False
+Serce składa się z dwóch komór.;False
+Nerka produkuje hormony. ;True
+Wątroba usuwa toksyny z organizmu. ;True
+Jelita są odpowiedzialne za produkcję insuliny. ;False
+Nerka produkuje mocz. ;True
+Wątroba magazynuje krew. ;False
+Serce reguluje ciśnienie krwi. ;True
+Płuca znajdują się w jamie brzusznej.;False
+Wątroba jest narządem zdolnym do regeneracji. ;True
+Jelita pomagają w trawieniu białek. ;False
+Jelito grube reguluje wydalanie kału. ;True
+Płuca pomagają w trawieniu. ;False
+Nerka jest częścią układu pokarmowego. ;False
+Wątroba jest jednym z narządów wydzielniczych. ;True
+Jelita są odpowiedzialne za filtrację krwi. ;False
+Serce jest odpowiedzialne za produkcję moczu. ;False
+Płuca mają zdolność do magazynowania krwi. ;False
+Nerka jest umiejscowiona w klatce piersiowej. ;False
+Wątroba reguluje poziom cukru we krwi. ;True
+Jelita przyspieszają proces trawienia. ;False
+Jelito cienkie jest miejscem wchłaniania witamin. ;True
+Serce jest narządem mięśniowym. ;True
+Płuca biorą udział w wymianie gazowej. ;True
+Wątroba jest narządem wydzielniczym. ;True
+Jelita produkują hormony. ;False
+Jabłka są zdrowe;True
+Ziemniaki rosną pod ziemią;True
+Cukier szkodzi na zęby;True
+Kiwi jest bogate w witaminę C;True
+Kiełbasa jest polskim daniem;True
+Marchewka poprawia wzrok;True
+Chleb jest węglowodanem;True
+Makaron jest włoskim daniem;True
+Arbuz to owoc;True
+Czekolada zawiera kakao;True
+Ryż jest popularny w Azji;True
+Banany rosną na drzewach;True
+Oliwa z oliwek jest zdrowa;True
+Pomidory można jeść na surowo;True
+Jogurt zawiera probiotyki;True
+Kawa pobudza organizm;True
+Szpinak jest bogaty w żelazo;True
+Jajka są źródłem białka;True
+Kurczak jest białym mięsem;True
+Truskawki są owocami letnimi;True
+Orzechy są bogate w tłuszcze;True
+Sałatka jest lekkim posiłkiem;True
+Sernik to typowe polskie danie;True
+Papryka jest owocem warzywowym;True
+Fasola jest bogata w białko;True
+Pizza pochodzi z Japonii;False
+Ser żółty jest niezdrowy;False
+Chipsy to zdrowa przekąska;False
+Woda smakuje jak kawa;False
+Mango jest popularne w Polsce;False
+Coca-Cola jest zdrowym napojem;False
+Szarlotka to danie kuchni chińskiej;False
+Ananas rośnie na palmie;False
+Masło jest zdrowym tłuszczem;False
+Pączki są lekkim posiłkiem;False
+Jagnięcina jest popularna w Azji;False
+Bułki są niskokaloryczne;False
+Sos pomidorowy jest polskim daniem;False
+Tatar to danie wegetariańskie;False
+Buraki są owocami;False
+Kawa nie zawiera kofeiny;False
+Truskawki to rodzaj warzyw;False
+Jabłecznik jest bezkaloryczny;False
+Orzeszki ziemne rosną na drzewach;False
+Ziemniak jest owocem;False
+Sałatka owocowa zawiera tylko warzywa;False
+Zupa jarzynowa jest z owoców;False
+Lodów się nie mrozi ;False
+Marchewka jest różowa;False
+Koperek rośnie na drzewie;False
+Lekarz leczy ludzi;True
+Nauczyciel uczy w szkole;True
+Pielęgniarka dba o pacjentów ;True
+Inżynier projektuje mosty;True
+Programista pisze programy ;True
+Architekt projektuje budynki ;True
+Policjant pilnuje porządku;True
+Strażak gasi pożary ;True
+Prawnik broni klientów;True
+Psycholog pomaga ludziom;True
+Kucharz gotuje posiłki;True
+Krawiec szyje ubrania;True
+Elektryk naprawia urządzenia ;True
+Mechanik naprawia samochody;True
+Ogrodnik pielęgnuje rośliny;True
+Weterynarz leczy zwierzęta ;True
+Farmaceuta sprzedaje leki;True
+Dentysta leczy zęby;True
+Fryzjer obcina włosy;True
+Kosmetyczka pielęgnuje skórę ;True
+Dziennikarz pisze artykuły ;True
+Fotograf robi zdjęcia;True
+Muzyk gra na instrumentach;True
+Malarz maluje obrazy;True
+Pisarz pisze książki ;True
+Poeta tworzy wiersze;True
+Aktor gra w filmach;True
+Geolog bada ziemię;True
+Astronom obserwuje gwiazdy;True
+Socjolog bada społeczeństwo;True
+Ekonomista analizuje rynek;True
+Manager zarządza zespołem;True
+Przedsiębiorca prowadzi firmę;True
+Tłumacz przekłada teksty;True
+Dietetyk naprawia samochody;False
+Terapeuta gotuje obiady;False
+Trener leczy choroby ;False
+Doradca finansowy maluje obrazy;False
+Pilot projektuje suknie ślubne;False
+Stewardessa buduje kościoły;False
+Ratownik sprzedaje biżuterię;False
+Geodeta piecze ciasta;False
+Hydraulik tańczy na scenie;False
+Szklarz piecze ciasta;False
+Cieśla robi drinki;False
+Stolarz ratuje ludzi;False
+Florysta gra na instrumentach ;False
+Jubiler sprząta pokoje;False
+Zegarmistrz piecze potrawy;False
+Cukiernik tankuje paliwo;False
+Piekarz pracuje na recepcji;False
+Barista pisze książki;False
+Pokojówka uczy nurkowania;False
+Ochroniarz buduje budynki;False
+Listonosz kręci filmy;False
+Piłka nożna wymaga piłki;True
+maratończyk biega długie dystanse;True
+Siatkówka plażowa jest grana na piasku;True
+Koszykówka uliczna grana na podwórkach;True
+Tenis stołowy wymaga paletek;True
+Narciarstwo to sport zimowy;True
+Skoki narciarskie odbywają się na skoczniach;True
+Łyżwiarstwo figurowe wymaga precyzji;True
+Gimnastyka  wymaga elastyczności;True
+Kolarstwo szosowe jest na asfalcie;True
+Golf wymaga kija;True
+Narciarstwo alpejskie odbywa się w górach;True
+Żeglarstwo odbywa się na wodzie;True
+Boks polega na walce;True
+Triathlon to zawody w trzech dyscyplinach;True
+Łucznictwo sportowe wymaga łuku;True
+MMA to mieszane sztuki walki;True
+Biegi narciarskie odbywają się na śniegu;True
+Szachy są sportem umysłowym;True
+W paintballu nie używa się kulek;False
+Ping pong nie wymaga paletek;False
+Spadochroniarstwo odbywa się na lądzie;False
+Nordic walking to sport na rowerze;False
+Wędkarstwo polega na łapaniu ryb rękoma;False
+Biegi przełajowe to wyścigi na asfalcie;False
+Do hula hoop potrzeba piłki;False
+Surfing odbywa się na lądzie;False
+Rzut dyskiem polega na uderzaniu piłką;False
+Wspinaczka odbywa się w wodzie;False
+Gwiazda to kula gazowa;True
+Czarna dziura pochłania światło;True
+Na ziemii mieszkają ludzie;True
+Księżyc krąży wokół Ziemi;True
+Galaktyka to zbiór gwiazd i planet;True
+Teleskop pozwala widzieć kosmos;True
+Układ słoneczny składa się z planet;True
+Mars ma czerwoną powierzchnię;True
+Saturn ma widoczne pierścienie;True
+Pluton jest najbliżej Słońca;False
+Grawitacja odpycha przedmioty;False
+Zorza polarna występuje tylko na Księżycu;False
+Czas życia gwiazdy jest nieskończony;False

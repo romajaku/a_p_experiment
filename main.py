@@ -126,7 +126,7 @@ def executeTrial(sentences_list, trial_number, trial_type):
     answer, answer_rt = -1, -1
 
     main_clock = core.Clock()
-    # to do: restart clock at next flip main_clock.reset()
+    win.callOnFlip(main_clock.reset)
     while main_clock.getTime() < random.uniform(1.2, 1.5):
         check_exit()
         fixation_cross.draw()
@@ -137,7 +137,7 @@ def executeTrial(sentences_list, trial_number, trial_type):
 
     event.clearEvents()
     main_clock.reset()
-    # to do: restart clock at next flip main_clock.reset()
+    win.callOnFlip(main_clock.reset)
     while main_clock.getTime() < 2:
         check_exit()
         keypressed = event.getKeys(keyList=['right', 'left'], timeStamped = main_clock)

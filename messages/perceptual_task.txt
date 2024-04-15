@@ -1,0 +1,2 @@
+Czy w zdaniu znajduje sie litera "a"?
+Lewo znaczy Tak, Prawo znaczny Nie
