@@ -65,7 +65,7 @@ def display_text(win, filename_txt):
     '''
     Function displays text from .txt file
     '''
-    with open(filename_txt, 'r', encoding='latin1') as file:
+    with open(filename_txt, 'r', encoding='UTF-8') as file:
         text = file.read()
     
     text_stim = visual.TextStim(win, text=text, height=.7, units = units, wrapWidth=screen_res[1])
@@ -98,7 +98,7 @@ def loadSentences(path='sentences.csv'):
     sentences.csv structure:
     sentence;answer
     '''
-    with open(path, 'r', encoding='latin1') as csv_file:
+    with open(path, 'r', encoding='utf-8') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=';')
         sentences_dict = {sentence:answer for [sentence,answer] in [line for line in csv_reader]}
 
