@@ -1,3 +1,7 @@
+# Zmiana czasu na odpowiedz (dluzej)
+# Posprzatac - w jednym miejscu zadawac info ile blokow i zdan w bloku
+# Instrukcja z czytaniem
+
 import csv
 import os
 import random
@@ -92,7 +96,7 @@ win = visual.Window(screen_res, color = bgcolor, fullscr = full_screen, units = 
 # import sentences from .csv file
 # sentences should
 
-def loadSentences(path='sentences.csv'):
+def loadSentences(path='sentences3.csv'):
     '''
     import sentences from .csv file and assign it into dict
     sentences.csv structure:
@@ -104,17 +108,16 @@ def loadSentences(path='sentences.csv'):
 
         return sentences_dict
     
-sentences_dict = loadSentences(path='sentences.csv')
+sentences_dict = loadSentences(path='sentences3.csv')
 sentences_list = list(sentences_dict)
 
 if randomize_trials:
     random.shuffle(sentences_list)
 
-training1_list = sentences_list[:5]
-training2_list = sentences_list[6:10]
+training1_list = sentences_list[:17]
 
-recall_list = [sentences_list[i:i+44] for i in range(10, len(sentences_list), 44)]
-task_list = [r[:22] for r in recall_list]
+recall_list = [sentences_list[i:i+88] for i in range(17, len(sentences_list), 88)]
+task_list = [r[:44] for r in recall_list]
 
 for l in recall_list:
     random.shuffle(l)
@@ -138,7 +141,7 @@ def executeTrial(sentences_list, trial_number, trial_type):
     event.clearEvents()
     main_clock.reset()
     win.callOnFlip(main_clock.reset)
-    while main_clock.getTime() < 2:
+    while main_clock.getTime() < 4:
         check_exit()
         keypressed = event.getKeys(keyList=['right', 'left'], timeStamped = main_clock)
         text_stim.draw()
@@ -218,8 +221,8 @@ for trial_number in range(len(training1_list)):
 
 display_text(win, 'messages/semantic_task.txt')
 
-for trial_number in range(len(training2_list)):
-    trial_type, sentence, correct_answer, answer, answer_rt = executeTrial(training2_list, trial_number, "semantic_training")
+for trial_number in range(len(training1_list)):
+    trial_type, sentence, correct_answer, answer, answer_rt = executeTrial(training1_list, trial_number, "semantic_training")
     results.append([trial_type, trial_number ,sentence, correct_answer, answer, answer_rt])
 
 display_text(win, 'messages/main_task.txt')

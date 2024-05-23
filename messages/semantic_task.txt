@@ -1,2 +1,15 @@
-Czy zdanie jest prawdziwe?
-Lewo znaczy Tak, Prawo znaczny Nie
+ W tej części zadania prosimy cię, abyś skupił/a się na zdaniach pod względem semantycznym. 
+
+
+W czasie wyświetlenia zdania na ekranie odpowiedz na pytanie:
+
+Czy wyświetlanie zdanine jest prawdziwe, czy fałszywe? 
+
+Prosimy o dokonanie wyboru za pomocą przycisków:
+
+strzałka w lewo (<--) - PRAWDA
+strzałka w prawo (-->) - FAŁSZ
+
+Pamiętaj, aby przeczytać każde zdanie NA GŁOS.
+
+Jeśli jesteś gotowy aby przejść do kolejnego bloku wciśnij SPACJE

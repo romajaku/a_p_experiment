@@ -1,2 +1,21 @@
-Lewo znaczy Tak, Prawo znaczny Nie
-Nie chce mi się pisać instruckcji.
+Drogi uczestniku,
+
+Witamy w badaniu dotyczącym online i offline state'ów.
+Przed przystąpieniem do badania prosimy o zapoznanie się z poniższymi instrukcjami.
+
+Za każdym razem będziemy prezentować ten sam rodzaj bodźca - zdania. Będziesz poproszony/na o przetworzenie go na jeden z dwóch sposobów.
+
+A) Semantycznie - ocenisz, czy przeczytane zdanie jest prawdziwe lub fałszywe.
+B) Percepcyjnie - ocenisz, czy przeczytane zdanie zawiera słowa z literą "a".
+
+Za każdym razem prosimy, abyś przeczytał/a zdanie NA GŁOS.
+
+Nasze zadanie zaczniemy od krótkiego treningu, w którym musisz skupiać się
+na wyświetlanych na ekranie zdaniach i zdecydować, które z nich jest prawdziwe, a które fałszywe.
+
+Prosimy o dokonanie wyboru za pomocą przycisków: 
+
+strzałka w lewo (<--) - PRAWDA
+strzałka w prawo (-->) - FAŁSZ
+
+Jeśli jesteś gotowy aby przejść do pierwszego bloku wciśnij SPACJE

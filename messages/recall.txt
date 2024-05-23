@@ -1,3 +1,13 @@
-Odpamiętywanie
-Zareaguj na to, czy zdanie się pojawiło.
-Lewo znaczy Tak, Prawo znaczny Nie
+Czas na odpamiętanie zdań.
+
+W czasie wyświetlenia zdania na ekranie odpowiedz na pytanie:
+
+Czy to zdanie pojawiło się w ostatnim bloku?
+Info: Zdania nie mogły się pojawić w bloku innym niż ostatni. 
+
+Prosimy o dokonanie wyboru za pomocą przycisków:
+
+strzałka w lewo (<--) - TAK
+strzałka w prawo (-->) - NIE
+
+Jeśli jesteś gotowy aby przejść do pierwszego bloku wciśnij SPACJE

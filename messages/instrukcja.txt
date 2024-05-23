@@ -1,0 +1,80 @@
+1 Instrukcji wprowadzającej do treningu (o co chodzi w zadaniu i jak odpowiadać)
+2 Informacji o zakończeniu treningu i przejściu do własciwego zadania
+3 Okna dialogowego przed zadaniem percepcyjnym (z pytaniem na które trzeba odpowiedzieć)
+  j.w. tylko do zadania semantycznego
+4 instrukcji do części recallowej
+
+1. Drodzy uczestniku,
+
+Witamy w badaniu dotyczącym online i offline state'ów. Będziemy prezentować ten sam rodzaj bodźca - zdania. Będziesz poproszony/na o przetworzenie go na jeden z dwóch sposobów.
+
+A) Semantycznie - czy zdanie jest prawdziwe czy fałszywe
+B) Percepcyjnie - np. policz słowa zaczynające się na literę "b".
+
+Przed przystąpieniem do badania prosimy o zapoznanie się z poniższymi instrukcjami. 
+
+Nasze zadanie zaczniemy od krótkiego treningu, w którym musisz skupiać się na wyświetlanych na ekranie zdaniach i zdecydować, które z nich jest prawdziwe, a które fałszywe.
+
+Prosimy o dokonanie wyboru za pomocą przycisków: 
+
+strzałka w lewo - PRAWDA
+strzałka w prawo - FAŁSZ
+
+Jeśli jesteś gotowy aby przejść do pierwszego bloku wciśnij SPACJE
+
+2. Trening zakończony. 
+
+Teraz przechodzimy do głównej części zadania. 
+
+Ponownie prosimy, abyś ocenił/ła czy wyświetlanie zdanine jest prawdziwe, czy fałszywe. 
+
+Prosimy o dokonanie wyboru za pomocą przycisków: 
+
+strzałka w lewo - PRAWDA
+strzałka w prawo - FAŁSZ
+
+WAŻNE:  CZYTAJ ZDANIA NA GŁOS
+
+
+3. W tej części zadania prosimy cię, abyś skupił/a się na zdaniach pod względem percepcyjnym. 
+
+
+W czasie wyświetlenia zdania na ekranie odpowiedz na pytanie:
+
+Czy w zdaniu pojawia się litera ,,a''? 
+
+Prosimy o dokonanie wyboru za pomocą przycisków:
+
+strzałka w lewo - TAK, W ZDANIU BYŁA LITERA ,,A''
+strzałka w prawo - NIE, W ZDANIU NIE BYŁO LITERY ,,A''
+
+
+4. W tej części zadania prosimy cię, abyś skupił/a się na zdaniach pod względem semantycznym. 
+
+W czasie wyświetlenia zdania na ekranie odpowiedz na pytanie:
+
+Czy to zdanie jest prawdziwe, czy fałszywe?
+
+Prosimy o dokonanie wyboru za pomocą przycisków: 
+
+strzałka w lewo - PRAWDA
+strzałka w prawo - FAŁSZ
+
+
+
+5. W czasie wyświetlenia zdania na ekranie odpowiedz na pytanie:
+
+Czy to zdanie pojawiło się już wcześniej?   
+
+Prosimy o dokonanie wyboru za pomocą przycisków:
+
+strzałka w lewo - TAK
+strzałka w prawo - NIE
+
+
+6. To już jest koniec ;) 
+
+Dziękujemy za udział w badaniu!
+
+
+
