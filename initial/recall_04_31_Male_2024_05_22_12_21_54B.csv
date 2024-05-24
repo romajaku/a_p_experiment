@@ -1,0 +1,353 @@
+sentence,in_task,acc
+Tygrys to ssak,False,0
+Ser ¿ó³ty to miêso,False,1
+Marzec jest miesi¹cem lata.,True,0
+Geolog bada ziemiê,True,1
+Wœciek³oœæ to negatywna emocja,False,0
+¯ubr to gatunek ptaka,False,1
+Geodeta piecze ciasta,True,0
+Cukiernik tankuje paliwo,False,1
+Plecak nosi siê na plecach,False,0
+Karaluch jest ssakiem,False,1
+Pizza pochodzi z Japonii,True,0
+Religia zajmuje siê wiar¹ ,False,0
+Lydka jest czêœci¹ rêki. ,True,0
+Ryœ to gatunek ptaka,True,0
+Biegi prze³ajowe to wyœcigi,True,1
+Weterynarz leczy zwierzêta ,False,1
+S³onecznik lubi s³oñce,True,1
+Szachy s¹ sportem umys³owym,True,1
+Kura jest drapie¿nikiem,False,1
+Przedsiêbiorca prowadzi firmê,True,1
+Spadochroniarstwo to sport wodny,False,1
+Kalkulator pomaga w obliczeniach,False,1
+Z¹b s³u¿y do gryzienia. ,True,0
+Stopa sk³ada siê z palców. ,False,1
+Noga umo¿liwia chodzenie. ,False,1
+Malarz maluje obrazy,True,0
+Okno umo¿liwia dostêp œwiat³a.,False,1
+Ziemniaki rosn¹ pod ziemi¹,False,1
+Byk to ssak roœlino¿erny,True,1
+Deskorolk¹ p³ywa siê po wodzie,False,1
+Koszykówka grana jest na boisku,True,0
+Zaj¹c to zwierzê roœlino¿erne,True,1
+Mak roœnie na polu,True,1
+Dietetyk naprawia samochody,True,1
+Krótkie dni s¹ w czerwcu,False,1
+Kurtka to okrycie wierzchnie,True,0
+Foka ¿yje na l¹dzie,False,1
+Czekolada zawiera kakao,True,0
+Fizyka bada prawa natury,True,1
+¯ebra chroni¹ p³uca.,True,1
+Spódnica jest po¿ywieniem,False,1
+Jubiler sprz¹ta pokoje,True,1
+Pokój dzieciêcy jest dla dzieci,True,1
+Angielski to nauka jêzyka obcego,True,1
+Garnitur jest strojem formalnym,False,1
+Bark to górna czêœæ tu³owia. ,False,1
+Drzwi s¹ na pod³odze,False,1
+Biodro ³¹czy nogê z tu³owiem.,True,1
+Rêkawiczki nosi siê na rêkach,True,0
+Krowa daje mleko,True,1
+Deszcz jest mokry,False,1
+Kozaki to rodzaj obuwia,True,1
+Ping pong nie wymaga paletek,False,1
+Grawitacja odpycha przedmioty,True,1
+Artysta tworzy dzie³a sztuki. ,True,0
+Kocimiêtka przyci¹ga koty,False,1
+G³owa zawiera mózg. ,False,1
+Pluton jest najbli¿ej S³oñca,True,1
+Lama mieszka w wodzie,True,1
+¯eglarstwo odbywa siê na wodzie,True,1
+Paj¹k potrafi lataæ,False,1
+Silnik jest w samolocie,True,1
+Kret kopie tunele,True,0
+Listonosz krêci filmy,True,0
+Pisarz pisze ksi¹¿ki ,False,1
+Fotograf robi zdjêcia,False,1
+Ratownik sprzedaje bi¿uteriê,False,1
+Nerka filtruje mocz. ,False,1
+Na ziemii mieszkaj¹ ludzie,True,1
+Kreda s³u¿y do pisania,False,1
+Kruk potrafi mówiæ,True,0
+Szkolny bus potrafi lataæ,True,1
+Zegarmistrz piecze potrawy,False,1
+Piêta jest czêœci¹ stopy. ,True,1
+Leniwiec szybko biega,True,1
+Kciuk jest najd³u¿szym placem,False,1
+Zazdroœæ to cecha ludzka,False,1
+Zeszyt s³u¿y do notowania,False,1
+Gumka s³u¿y do œcierania ,False,1
+Plecy ³¹cz¹ tu³ów z g³ow¹. ,True,1
+Puma to gatunek kota,False,0
+Ananas to warzywo,False,1
+Drzwi s¹ czêœci¹ okna. ,True,0
+Sos pomidorowy jest z pomidorów,True,1
+Spodnie s¹ czêœci¹ garderoby,False,0
+Florysta gra na instrumentach ,False,1
+Muzyka to nauka o dŸwiêkach,False,1
+Aligator p³ywa w wodzie,False,1
+Fasola jest owocem,False,1
+Przedpokój to wejœcie do pokoju,False,1
+Paproæ jest niebieska,False,1
+Astronom obserwuje gwiazdy,False,1
+Jastrz¹b potrafi p³ywaæ,True,1
+Hamulce s³u¿¹ do hamowania,False,1
+Manager zarz¹dza zespo³em,False,1
+Usta s¹ na twarzy,True,1
+Baran to zwierzê stadne,True,1
+Ochroniarz buduje budynki,False,1
+Mechanik naprawia samochody,True,1
+Stra¿ak gasi po¿ary ,False,1
+Alpaka to gatunek owada,False,1
+Kostka stabilizuje stopê. ,True,1
+Brew to czêœæ rêki,False,1
+Ekonomista analizuje rynek,True,1
+Dziennikarz pisze artyku³y ,False,1
+Palec u nogi jest ró¿owy,True,1
+Dentysta leczy zêby,True,1
+Motyl potrafi lataæ,True,0
+Boks polega na walce,True,1
+Ucho umo¿liwia s³yszenie. ,False,1
+Globus to model ziemi,False,1
+Pilot projektuje suknie œlubne,True,1
+NiedŸwiedŸ to drapie¿nik,False,1
+Rzeka p³ynie do góry,False,1
+Hiena poluje w stadach,True,1
+W³osy rosn¹ na g³owie. ,False,1
+Kaktus potrzebuje wody,True,1
+Wspinaczka odbywa siê w wodzie,False,1
+Lis to zwierzê miêso¿erne,True,1
+¯ó³w potrafi lataæ,True,1
+Hipopotam to roœlino¿erca,True,1
+W œwietlicy buduje siê samoloty,True,1
+Elektryk naprawia urz¹dzenia ,False,1
+Wigilia jest w grudniu,False,1
+Golf wymaga kija,False,1
+Surfing odbywa siê na l¹dzie,True,1
+Szklarz piecze ciasta,True,1
+Ciekawoœæ motywuje ludzi,False,1
+Stolarz ratuje ludzi,True,1
+Fryzjer obcina w³osy,False,1
+Psycholog pomaga ludziom,True,1
+D³ugopis s³u¿y do pisania,True,1
+Woda smakuje jak kawa,False,1
+Kawa pobudza organizm,False,1
+Rumianek jest zdrowy,False,1
+Gepard jest drapie¿nikiem,False,1
+Góry s¹ zbudowane z wody,False,1
+Mors p³ywa w wodzie,False,1
+Krew transportuje substancje. ,False,1
+Marchewka jest pomarañczona,True,1
+Paznokcie chroni¹ palce. ,False,1
+Piekarz pracuje na recepcji,False,1
+Serce pompuje krew,True,0
+Krawiec szyje ubrania,True,1
+Komputer s³u¿y do liczenia,False,0
+Koœci tworz¹ szkielet,True,1
+Kosmetyczka pielêgnuje skórê ,False,1
+W hokeju u¿ywa siê nart,True,1
+Sweter chroni przed zimnem. ,True,1
+Koñ to zwierzê kopytne,True,1
+Piórnik przechowuje przybory,False,1
+Reflektor oœwietla drogê ,False,1
+Ogrodnik pielêgnuje roœliny,True,1
+Stewardessa buduje koœcio³y,True,1
+P¹czki s¹ zdrowe,True,1
+Udo znajduje siê na g³owie,True,1
+Kostka do gry s³u¿y do pisania,False,1
+Jab³ka s¹ zdrowe,False,1
+Matematyka to nauka liczb,True,1
+Cukier szkodzi na zêby,False,1
+Liœcie zmieniaj¹ kolor jesieni¹,False,1
+Szczur to gatunek ptaka,False,1
+Wycieraczki wycieraj¹ szybê,True,1
+Buraki s¹ owocami,True,1
+£abêdŸ to gatunek ptaka,True,1
+Nadgarstek to czêœæ rêki,False,1
+Buty nosi siê na stopach,True,0
+W sierpniu s¹ d³ugie noce.,False,0
+Têtnica prowadzi krew z serca. ,True,1
+Autobus jest wiêkszy od roweru,True,1
+Œwinia potrafi siê wspinaæ,False,1
+Doradca finansowy maluje obrazy,True,1
+Dyrektor sprz¹ta szko³ê,True,1
+Nietoperz potrafi lataæ,False,1
+Szyja ³¹czy g³owê z tu³owiem. ,True,1
+Niebo jest zielone,True,1
+Mysz lubi p³ywaæ,False,1
+Policjant pilnuje porz¹dku,False,0
+Pod³oga jest pod stopami,False,1
+Rajstopy s¹ noszone na rêce. ,False,1
+Kapibara to gatunek ma³py,True,1
+Aloes roœnie na Ksiê¿ycu,True,1
+Poeta tworzy wiersze,False,1
+Koza daje mleko,True,1
+P³uca umo¿liwiaj¹ oddychanie. ,False,1
+Sowa jest nocnym ptakiem,False,1
+Delfin potrafi lataæ,False,1
+Historia opowiada o przesz³oœci,True,1
+¯y³a odprowadza krew do serca. ,False,0
+Bambus roœnie w Polsce,True,1
+Wiatr jest niewidzialny,False,1
+Wieloryb to gatunek owada,False,1
+Truskawki s¹ owocami letnimi,True,1
+Wrona jest gatunkiem paj¹ka,False,1
+Skóra chroni cia³o,True,0
+Muzyk gra na instrumentach,True,1
+Halloween jest w czerwcu,True,1
+Kolano umo¿liwia zginanie nogi. ,False,1
+Bo¿e Narodzenie jest w maju,False,1
+Aktor gra w filmach,True,1
+Kasztanowiec daje kasztany,False,1
+In¿ynier projektuje mosty,True,0
+Przebiœnieg przebija œnieg,False,1
+Sernik to ciasto,True,1
+Krêgos³up jest elastyczny. ,False,1
+Œwierk jest drzewem iglastym,False,1
+Miêœnie umo¿liwiaj¹ ruch. ,True,0
+Sprzedawca obs³uguje klientów,True,1
+Jogurt mo¿na jeœæ,True,0
+Jagniêcina to miêso z kury,False,1
+Klamka otwiera okno,False,1
+Pokojówka uczy nurkowania,True,1
+D³oñ sk³ada siê z palców. ,True,1
+Farmaceuta sprzedaje leki,False,1
+Marynarkê nosi siê na nogach,False,1
+W ka¿dym miesi¹cu jest 28 dni. ,False,1
+Radio samochodowe gra muzykê,False,1
+W kwietniu rosn¹ kwiaty. ,False,1
+O³ówek s³u¿y do pisania.,True,1
+Brzuch jest czêœci¹ cia³a. ,True,0
+Barista pisze ksi¹¿ki,True,1
+Jab³ecznik jest bezkaloryczny,True,1
+Orzechy s¹ zdrowe,True,0
+Nos s³u¿y do oddychania. ,False,1
+Czarna dziura poch³ania œwiat³o,True,1
+Na technice gra siê w rugby,False,1
+Pingwin potrafi lataæ,True,0
+Tenis sto³owy wymaga paletek,False,1
+Wilk poluje w grupach,False,1
+Klatka piersiowa chroni serce.,True,1
+Poœladki s¹ na koñcu nogi. ,False,1
+Szyba chroni przed wiatrem.,True,0
+Kie³basa jest z miêsa,True,1
+Szarlotka to rodzaj mebla,True,1
+Narciarstwo to sport zimowy,True,0
+Papryka jest warzywem,True,0
+Kucharz gotuje posi³ki,False,1
+Cieœla robi drinki,False,1
+Woda jest niezbêdna do ¿ycia,False,1
+Wywiadówka jest w szpitalu,True,1
+Sypialnia jest miejscem snu. ,False,1
+Na korepetycjach siê uczy,True,1
+W¹troba produkuje krew. ,True,1
+Goryl to gatunek ptaka,False,0
+Pomidory mo¿na jeœæ na surowo,False,1
+Orka to ssak wodny,True,0
+T³umacz przek³ada teksty,False,1
+Pokój to pomieszczenie,True,0
+W listopadzie opadaj¹ liœcie.,True,0
+Jelita trawi¹ pokarm. ,True,0
+Orkiestra buduje budynki,False,1
+Zupa jarzynowa jest z owoców,True,0
+Zderzak chroni pojazd,True,0
+Talia to czêœæ nogi,False,1
+Banany rosn¹ na drzewach,True,0
+Owca to zwierzê roœlino¿erne,False,0
+Go³¹b potrafi lataæ,True,0
+Bocian przynosi dzieci,True,1
+Pi³ka no¿na wymaga pi³ki,True,1
+Kot to drapie¿nik,False,1
+£ucznictwo sportowe wymaga ³uku,False,1
+Ksiê¿yc kr¹¿y wokó³ Ziemi,False,1
+Architekt projektuje budynki ,True,1
+Gimnastyka wymaga elastycznoœci,False,1
+Ksiê¿yc w pe³ni jest kwadratowy,False,1
+Rolkami jeŸdzi siê po wodzie,True,1
+Bóbr jest gatunkiem ptaka,False,1
+Lekarz leczy ludzi,True,1
+Dziobak to ssak wodny,True,1
+Szympans potrafi u¿ywaæ narzêdzi,False,1
+Francuski to nauka jêzyka obcego,False,1
+Sarna poluje w nocy,True,1
+Ramiê ³¹czy rêkê z tu³owiem. ,False,1
+Koperek roœnie na drzewie,True,1
+Wêdkarze ³api¹ ryby rêkoma,False,1
+Roleta zas³ania okno. ,False,1
+Szpinak jest zielony,True,1
+Nozdrza umo¿liwiaj¹ oddychanie.,True,1
+Ramiona s¹ czêœci¹ nóg. ,False,1
+Œliwa daje œliwki,False,1
+D³oñ umo¿liwia chwytanie.,True,1
+Na plastyce siê rysuje,True,1
+Jemio³a to zwierzê,True,1
+Gwiazda to kula gazowa,False,1
+Oliwa z oliwek jest zdrowa,False,1
+Kucyk potrafi lataæ,False,1
+Nawigacja pomaga w podró¿owaniu,True,1
+Ryba potrafi biegaæ,False,1
+Chipsy to zdrowa przek¹ska,False,1
+Matura to rodzaj musicalu,True,1
+Papuga umie mówiæ,False,1
+Klej s³u¿y do klejenia,False,1
+Ry¿ jest popularny w Azji,True,1
+Drzewa rosn¹ w górê,False,1
+Makaron jest w³oskim daniem,True,1
+Akwarele to farby wodne,False,1
+Pacha znajduje siê pod rêk¹. ,False,1
+Fotograf sprz¹ta chodniki,True,1
+Opony s¹ wymagane w samochodzie,False,1
+Pielêgniarka dba o pacjentów ,True,1
+W¹¿ posiada cztery nogi,True,1
+Programista pisze programy ,False,1
+Trener leczy choroby ,False,1
+Chleb jest z m¹ki,True,1
+Osa to gatunek ryby,False,1
+Oczy to czêœæ g³owy.,True,1
+Wyspy s¹ zawsze otoczone wod¹,False,1
+Paliwo jest potrzebne do jazdy,False,1
+Dzik poluje na ludzi,False,1
+Na geografii uczy siê o ziemi,True,1
+Wiewiórka potrafi p³ywaæ,True,1
+Koala lubi miêso,False,1
+Panda jest ró¿owa,True,1
+Kwiat umie tañczyæ,True,1
+Na olimpiadzie ka¿dy wygrywa,False,1
+Czarna wdowa jest ró¿owa,True,1
+Nauczyciel uczy w szkole,False,1
+Sufit jest nad g³ow¹,True,1
+Pêpek jest na brzuchu,True,1
+Jab³oñ daje jab³ka,False,1
+Oko umo¿liwia dotyk.,True,1
+Ptak potrafi lataæ,True,0
+Miesi¹c sk³ada siê z 30 dni. ,True,1
+Ostrokrzew jest krzewem,True,1
+W styczniu s¹ d³ugie dni. ,False,1
+MMA to mieszane sztuki walki,True,1
+Sa³atka jest lekkim posi³kiem,True,1
+Jajka pochodz¹ od kur,True,1
+Kiwi jest owocem,True,1
+Lawa to p³ynna ska³a,False,1
+S³oñce œwieci w nocy,True,1
+We wrzeœniu zaczyna siê zima. ,False,1
+Rzut dyskiem to uderzanie pi³k¹,True,1
+Jeziora s¹ g³êbsze od oceanów,True,1
+£azienka s³u¿y do k¹pieli. ,False,1
+Prawnik broni klientów,False,1
+Czo³o znajduje siê na potylicy. ,True,1
+Lawenda jest zielona,False,1
+¯o³¹dek trawi pokarm. ,False,1
+Kamieñ umie p³ywaæ,True,1
+Bu³ki to rodzaj miêsa,True,1
+Socjolog bada spo³eczeñstwo,True,1
+Sutki s¹ widoczne u mê¿czyzn. ,False,1
+W paintballu u¿ywa siê kulek,False,1
+Terapeuta gotuje obiady,False,1
+Rekin jest ryb¹,False,1
+W¹troba magazynuje energiê. ,False,1
+Mózg kontroluje cia³o.,True,1
+Kurczak jest bia³ym miêsem,False,1
+Szalik siê nosi w zimie,True,1
+Szorty s¹ popularne latem. ,False,1
+Jêzyk umo¿liwia smakowanie. ,True,1

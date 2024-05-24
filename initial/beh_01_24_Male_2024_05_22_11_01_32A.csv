@@ -1,0 +1,211 @@
+trial_type,trial_number,sentence,correct_answer,acc,answer_rt
+perceptual_training,0,Zbiornik paliwa jest z papieru,True,1,0.9335212000005413
+perceptual_training,1,Noga umo¿liwia chodzenie. ,True,1,0.6834638000000268
+perceptual_training,2,Kolano umo¿liwia zginanie nogi. ,True,1,0.9502438999988954
+perceptual_training,3,Nietoperz potrafi lataæ,True,1,1.416859700002533
+perceptual_training,4,D³oñ sk³ada siê z palców. ,True,1,0.9335438999987673
+perceptual_training,5,Czarna wdowa jest ró¿owa,True,1,0.7167588000011165
+perceptual_training,6,Klej s³u¿y do klejenia,True,1,1.5988667999990867
+perceptual_training,7,Gepard jest drapie¿nikiem,True,1,1.1334110000025248
+perceptual_training,8,D³ugopis s³u¿y do pisania,True,1,1.6667288999960874
+perceptual_training,9,Ziemniaki rosn¹ pod ziemi¹,True,1,2.0333553000018583
+perceptual_training,10,Spadochroniarstwo to sport wodny,True,1,0.9834926999974414
+perceptual_training,11,Dentysta leczy zêby,True,1,0.9667865999945207
+perceptual_training,12,Zderzak chroni pojazd,True,1,1.2507184999994934
+perceptual_training,13,Spódnica jest po¿ywieniem,True,1,0.7835618000026443
+perceptual_training,14,Pielêgniarka dba o pacjentów ,True,1,0.8835487999967881
+perceptual_training,15,Stewardessa buduje koœcio³y,True,1,0.9834637000021758
+perceptual_training,16,Klatka piersiowa chroni serce.,True,1,0.6501220999998623
+semantic_training,0,Zbiornik paliwa jest z papieru,False,1,1.1834335999956238
+semantic_training,1,Noga umo¿liwia chodzenie. ,True,1,0.7501687000039965
+semantic_training,2,Kolano umo¿liwia zginanie nogi. ,True,1,1.5668097000016132
+semantic_training,3,Nietoperz potrafi lataæ,True,1,1.117057499999646
+semantic_training,4,D³oñ sk³ada siê z palców. ,True,1,1.3501694000005955
+semantic_training,5,Czarna wdowa jest ró¿owa,False,1,1.1335623999984819
+semantic_training,6,Klej s³u¿y do klejenia,True,1,0.9501321999996435
+semantic_training,7,Gepard jest drapie¿nikiem,True,1,0.9835526000024402
+semantic_training,8,D³ugopis s³u¿y do pisania,True,1,0.900077100006456
+semantic_training,9,Ziemniaki rosn¹ pod ziemi¹,True,1,0.5668368000042392
+semantic_training,10,Spadochroniarstwo to sport wodny,False,1,1.1335003999993205
+semantic_training,11,Dentysta leczy zêby,True,1,0.866802500000631
+semantic_training,12,Zderzak chroni pojazd,True,1,1.0334919000015361
+semantic_training,13,Spódnica jest po¿ywieniem,False,1,1.0335147000005236
+semantic_training,14,Pielêgniarka dba o pacjentów ,True,1,1.4339412999979686
+semantic_training,15,Stewardessa buduje koœcio³y,False,1,1.8335753999999724
+semantic_training,16,Klatka piersiowa chroni serce.,True,1,0.9167993000010028
+semantic_experiment0,0,Pacha znajduje siê pod rêk¹. ,True,1,2.5334170999994967
+semantic_experiment0,1,Motyl potrafi lataæ,True,1,1.750105999999505
+semantic_experiment0,2,Tatar to danie wegetariañskie,False,1,1.6820137000031536
+semantic_experiment0,3,Wiatr jest niewidzialny,True,1,1.6335820999956923
+semantic_experiment0,4,Banany rosn¹ na drzewach,True,1,1.3834576000008383
+semantic_experiment0,5,Silnik jest w samolocie,True,1,1.5002391999951215
+semantic_experiment0,6,Lawenda jest zielona,False,1,0.9834281000003102
+semantic_experiment0,7,£abêdŸ to gatunek ptaka,True,1,1.3334812999964925
+semantic_experiment0,8,Œwinia potrafi siê wspinaæ,False,1,2.283484400002635
+semantic_experiment0,9,Drzewa rosn¹ w górê,True,1,1.2336100999964401
+semantic_experiment0,10,Sernik to ciasto,True,1,1.383460600001854
+semantic_experiment0,11,Koala lubi miêso,False,1,1.4834649999975227
+semantic_experiment0,12,Matematyka to nauka liczb,True,1,1.5334939999956987
+semantic_experiment0,13,Komputer s³u¿y do liczenia,True,1,1.3336657999971067
+semantic_experiment0,14,Trener leczy choroby ,False,1,2.333561900006316
+semantic_experiment0,15,Brzuch jest czêœci¹ cia³a. ,True,1,1.216786899996805
+semantic_experiment0,16,Wilk poluje w grupach,True,1,1.816781000001356
+semantic_experiment0,17,Kreda s³u¿y do pisania,True,1,1.366782899996906
+semantic_experiment0,18,W¹¿ posiada cztery nogi,False,1,1.783395800004655
+semantic_experiment0,19,Koñ to zwierzê kopytne,True,1,1.5835409999999683
+semantic_experiment0,20,Woda jest niezbêdna do ¿ycia,True,1,0.9501517999960924
+semantic_experiment0,21,T³umacz przek³ada teksty,True,1,1.7002720000018599
+semantic_experiment0,22,Zegarmistrz piecze potrawy,False,1,2.5167459000003873
+semantic_experiment0,23,Papryka jest warzywem,True,1,1.6670591000001878
+semantic_experiment0,24,Surfing odbywa siê na l¹dzie,False,1,2.3001319999966654
+semantic_experiment0,25,Deszcz jest mokry,True,1,1.450110300000233
+semantic_experiment0,26,Do hula hoop potrzeba pi³ki,False,1,1.6168948999984423
+semantic_experiment0,27,Doradca finansowy maluje obrazy,False,1,2.2336871000006795
+semantic_experiment0,28,Piêta jest czêœci¹ stopy. ,True,1,1.2334116999991238
+semantic_experiment0,29,Jeziora s¹ g³êbsze od oceanów,False,0,-1
+semantic_experiment0,30,Pêpek jest na brzuchu,True,1,1.300166300003184
+semantic_experiment0,31,Ksiê¿yc w pe³ni jest kwadratowy,False,1,1.6154427000001306
+semantic_experiment0,32,Goryl to gatunek ptaka,False,1,1.3668169000011403
+semantic_experiment0,33,W styczniu s¹ d³ugie dni. ,False,1,1.3168884999977308
+semantic_experiment0,34,Ekonomista analizuje rynek,True,1,1.9169249999977183
+semantic_experiment0,35,Brew to czêœæ rêki,False,1,1.083515800004534
+semantic_experiment0,36,Ping pong nie wymaga paletek,False,1,2.4500864000001457
+semantic_experiment0,37,Kura jest drapie¿nikiem,False,0,2.3002886999965995
+semantic_experiment0,38,Sowa jest nocnym ptakiem,True,1,2.3501605999990716
+semantic_experiment0,39,Paznokcie chroni¹ palce. ,True,1,1.4669909000003827
+semantic_experiment0,40,Jab³ka s¹ zdrowe,True,1,0.9001287999999477
+semantic_experiment0,41,Piekarz pracuje na recepcji,False,1,1.3335069000022486
+semantic_experiment0,42,Niebo jest zielone,False,1,1.1834757999968133
+semantic_experiment0,43,Na technice gra siê w rugby,False,1,2.500243700000283
+perceptual_experiment0,0,We wrzeœniu zaczyna siê zima. ,True,1,1.2167594999991707
+perceptual_experiment0,1,Kruk potrafi mówiæ,True,0,1.7168043999990914
+perceptual_experiment0,2,Pokój dzieciêcy jest dla dzieci,True,1,1.3834568000020226
+perceptual_experiment0,3,Jelita trawi¹ pokarm. ,True,1,1.300269200000912
+perceptual_experiment0,4,Rzeka p³ynie do góry,True,1,1.6667369999995572
+perceptual_experiment0,5,Kangur potrafi skakaæ,True,1,1.4334442999970634
+perceptual_experiment0,6,Akwarele to farby wodne,True,1,1.983423399993626
+perceptual_experiment0,7,Orka to ssak wodny,True,1,1.9500962000020081
+perceptual_experiment0,8,Hamulce s³u¿¹ do hamowania,True,1,1.6501348999954644
+perceptual_experiment0,9,Kurczak jest bia³ym miêsem,True,1,1.5167652999953134
+perceptual_experiment0,10,Krótkie dni s¹ w czerwcu,False,1,2.23346329999913
+perceptual_experiment0,11,Fotograf robi zdjêcia,True,1,1.100103199998557
+perceptual_experiment0,12,Leniwiec szybko biega,True,1,1.7168775999962236
+perceptual_experiment0,13,Grawitacja odpycha przedmioty,True,0,-1
+perceptual_experiment0,14,Hipopotam to roœlino¿erca,True,1,2.0835189999997965
+perceptual_experiment0,15,Gard³o ³¹czy nos z prze³ykiem. ,True,1,2.2835855999946943
+perceptual_experiment0,16,Halloween jest w czerwcu,True,1,1.3336285000041244
+perceptual_experiment0,17,Rajstopy s¹ noszone na rêce. ,True,1,0.8834706999987247
+perceptual_experiment0,18,Stopa sk³ada siê z palców. ,True,1,1.333499699998356
+perceptual_experiment0,19,W sierpniu s¹ d³ugie noce.,False,0,1.4334429999944405
+perceptual_experiment0,20,Jastrz¹b potrafi p³ywaæ,True,1,1.1334661000000779
+perceptual_experiment0,21,Kucyk potrafi lataæ,True,1,1.1334770999965258
+perceptual_experiment0,22,Reflektor oœwietla drogê ,True,1,1.5001147000002675
+perceptual_experiment0,23,Kurtka to okrycie wierzchnie,True,1,2.050145100001828
+perceptual_experiment0,24,Ostrokrzew jest krzewem,False,0,-1
+perceptual_experiment0,25,W kwietniu rosn¹ kwiaty. ,True,1,1.8500813000064227
+perceptual_experiment0,26,Koza daje mleko,True,1,1.0001162999978988
+perceptual_experiment0,27,Foka ¿yje na l¹dzie,True,1,0.8668136999986018
+perceptual_experiment0,28,Ciekawoœæ motywuje ludzi,True,0,2.0834322000009706
+perceptual_experiment0,29,£ucznictwo sportowe wymaga ³uku,True,1,1.9001086999996915
+perceptual_experiment0,30,Bambus roœnie w Polsce,True,1,1.250207600001886
+perceptual_experiment0,31,Ser ¿ó³ty to miêso,False,1,1.9335633000009693
+perceptual_experiment0,32,Kostka stabilizuje stopê. ,True,1,1.1668491000018548
+perceptual_experiment0,33,W listopadzie opadaj¹ liœcie.,True,1,1.0835346999956528
+perceptual_experiment0,34,Weterynarz leczy zwierzêta ,True,1,1.9501511999987997
+perceptual_experiment0,35,Matura to rodzaj musicalu,True,1,1.1003057999987504
+perceptual_experiment0,36,Dyrektor sprz¹ta szko³ê,True,0,2.150243000003684
+perceptual_experiment0,37,Manager zarz¹dza zespo³em,True,1,2.300154000004113
+perceptual_experiment0,38,Roleta zas³ania okno. ,True,1,1.300112299999455
+perceptual_experiment0,39,Koœci tworz¹ szkielet,False,0,2.0500698999967426
+perceptual_experiment0,40,Florysta gra na instrumentach ,True,1,2.3001866999984486
+perceptual_experiment0,41,Garnitur jest strojem formalnym,True,1,0.9668304000006174
+perceptual_experiment0,42,Prawnik broni klientów,True,1,1.3668006000007153
+perceptual_experiment0,43,Nerka filtruje mocz. ,True,1,1.1001845999999205
+semantic_experiment2,0,Paproæ jest niebieska,False,1,1.0501775000011548
+semantic_experiment2,1,Oliwa z oliwek jest zdrowa,True,1,1.4501309000042966
+semantic_experiment2,2,Okno umo¿liwia dostêp œwiat³a.,True,1,1.4503484000015305
+semantic_experiment2,3,Panda jest ró¿owa,False,1,1.8335038000004715
+semantic_experiment2,4,Dorsz to ryba morska,True,1,3.016747400004533
+semantic_experiment2,5,Wigilia jest w grudniu,True,1,1.0667546000040602
+semantic_experiment2,6,Deskorolk¹ p³ywa siê po wodzie,False,1,2.8501166999994894
+semantic_experiment2,7,Nadgarstek to czêœæ rêki,False,0,1.1000758999944082
+semantic_experiment2,8,W¹troba magazynuje energiê. ,False,1,3.366769000000204
+semantic_experiment2,9,Religia zajmuje siê wiar¹ ,True,1,1.651242200001434
+semantic_experiment2,10,Skóra chroni cia³o,True,1,1.400071600000956
+semantic_experiment2,11,Kot to drapie¿nik,True,1,1.2668778000006569
+semantic_experiment2,12,Rzut dyskiem to uderzanie pi³k¹,False,1,1.8168270000023767
+semantic_experiment2,13,Jagniêcina to miêso z kury,False,1,1.6001319999995758
+semantic_experiment2,14,Poœladki s¹ na koñcu nogi. ,False,1,2.0667575999978
+semantic_experiment2,15,Mors p³ywa w wodzie,True,1,2.600118399997882
+semantic_experiment2,16,Pisarz pisze ksi¹¿ki ,True,1,0.8334879000030924
+semantic_experiment2,17,Ryba potrafi biegaæ,False,1,1.8334319999994477
+semantic_experiment2,18,Szympans potrafi u¿ywaæ narzêdzi,True,1,3.433417100000952
+semantic_experiment2,19,Spodnie s¹ czêœci¹ garderoby,True,1,2.016860400006408
+semantic_experiment2,20,Ratownik sprzedaje bi¿uteriê,False,1,1.733602799999062
+semantic_experiment2,21,Mechanik naprawia samochody,True,1,1.6666642999989563
+semantic_experiment2,22,Talia to czêœæ nogi,False,1,1.7000090000001364
+semantic_experiment2,23,Miesi¹c sk³ada siê z 30 dni. ,False,1,1.3499902000039583
+semantic_experiment2,24,Wrona jest gatunkiem paj¹ka,False,1,2.050231300003361
+semantic_experiment2,25,Bocian przynosi dzieci,False,1,1.7668946999983746
+semantic_experiment2,26,Historia opowiada o przesz³oœci,True,1,2.483433100002003
+semantic_experiment2,27,Buty nosi siê na stopach,True,1,1.7835957999996026
+semantic_experiment2,28,Marchewka jest pomarañczona,True,0,-1
+semantic_experiment2,29,Terapeuta gotuje obiady,False,1,2.783492300004582
+semantic_experiment2,30,Ucho umo¿liwia s³yszenie. ,True,1,1.73422670000582
+semantic_experiment2,31,Francuski to nauka jêzyka obcego,True,0,-1
+semantic_experiment2,32,Wycieraczki wycieraj¹ szybê,True,1,2.316757399996277
+semantic_experiment2,33,Marzec jest miesi¹cem lata.,False,1,2.833421000003
+semantic_experiment2,34,Lis to zwierzê miêso¿erne,True,1,1.566889000001538
+semantic_experiment2,35,Szklarz piecze ciasta,False,1,1.1667912999982946
+semantic_experiment2,36,Plecy ³¹cz¹ tu³ów z g³ow¹. ,False,0,2.033493900002213
+semantic_experiment2,37,Rolkami jeŸdzi siê po wodzie,False,1,2.4334362000008696
+semantic_experiment2,38,Wiewiórka potrafi p³ywaæ,False,1,2.8834281000017654
+semantic_experiment2,39,Lekarz leczy ludzi,True,1,1.883396700002777
+semantic_experiment2,40,Ryœ to gatunek ptaka,False,1,1.716772600004333
+semantic_experiment2,41,Sypialnia jest miejscem snu. ,True,1,2.0505223000000115
+semantic_experiment2,42,Ananas to warzywo,False,1,1.0335208999968017
+semantic_experiment2,43,Opony s¹ wymagane w samochodzie,True,1,1.733423400000902
+perceptual_experiment2,0,Kasztanowiec daje kasztany,True,1,1.900085699999181
+perceptual_experiment2,1,Wspinaczka odbywa siê w wodzie,True,1,0.9001273000030778
+perceptual_experiment2,2,Usta s¹ na twarzy,True,1,2.3334818000002997
+perceptual_experiment2,3,Gumka s³u¿y do œcierania ,True,1,2.0668361999996705
+perceptual_experiment2,4,Chomik jest gatunkiem ryby,True,1,2.0000665000043227
+perceptual_experiment2,5,Liœcie zmieniaj¹ kolor jesieni¹,True,1,2.633555200001865
+perceptual_experiment2,6,Zeszyt s³u¿y do notowania,True,1,1.433463399996981
+perceptual_experiment2,7,Golf wymaga kija,True,1,2.6001159000006737
+perceptual_experiment2,8,Ogrodnik pielêgnuje roœliny,False,1,2.23339699999633
+perceptual_experiment2,9,Œwierk jest drzewem iglastym,True,0,2.1169860000009066
+perceptual_experiment2,10,Sos pomidorowy jest z pomidorów,False,1,3.1167643000007956
+perceptual_experiment2,11,Lama mieszka w wodzie,True,1,0.8502896999998484
+perceptual_experiment2,12,S³oñce œwieci w nocy,False,1,2.7833268999966094
+perceptual_experiment2,13,W³osy rosn¹ na g³owie. ,True,0,2.0166995000035968
+perceptual_experiment2,14,Paj¹k potrafi lataæ,True,1,1.5835662000026787
+perceptual_experiment2,15,Piórnik przechowuje przybory,False,0,2.8669060000029276
+perceptual_experiment2,16,¯eglarstwo odbywa siê na wodzie,True,1,2.4834622999987914
+perceptual_experiment2,17,P¹czki s¹ zdrowe,False,1,2.516900999995414
+perceptual_experiment2,18,G³owa zawiera mózg. ,True,1,1.666838099998131
+perceptual_experiment2,19,Stra¿ak gasi po¿ary ,True,1,1.9835431999963475
+perceptual_experiment2,20,Udo znajduje siê na g³owie,True,0,-1
+perceptual_experiment2,21,Wœciek³oœæ to negatywna emocja,True,1,2.966809999998077
+perceptual_experiment2,22,Boks polega na walce,True,1,1.2835154999993392
+perceptual_experiment2,23,Go³¹b potrafi lataæ,True,1,1.716721899996628
+perceptual_experiment2,24,Marynarkê nosi siê na nogach,True,1,1.8001166000030935
+perceptual_experiment2,25,Gimnastyka wymaga elastycznoœci,True,1,1.916697100001329
+perceptual_experiment2,26,Paznokcie s¹ naturalnie zielone,True,1,3.0168735000042943
+perceptual_experiment2,27,Aktor gra w filmach,True,1,1.5501160999992862
+perceptual_experiment2,28,Kiwi jest owocem,False,1,1.883472499997879
+perceptual_experiment2,29,Bo¿e Narodzenie jest w maju,True,1,1.5001237000033143
+perceptual_experiment2,30,Aligator p³ywa w wodzie,True,1,2.750099400000181
+perceptual_experiment2,31,Poeta tworzy wiersze,True,0,1.6501568999956362
+perceptual_experiment2,32,Baran to zwierzê stadne,True,1,1.0501547999956529
+perceptual_experiment2,33,Kawa pobudza organizm,True,1,1.8506606000009924
+perceptual_experiment2,34,Truskawki s¹ owocami letnimi,True,1,3.1833431999984896
+perceptual_experiment2,35,Angielski to nauka jêzyka obcego,True,1,1.5834418000013102
+perceptual_experiment2,36,Koperek roœnie na drzewie,True,1,2.1834789000058663
+perceptual_experiment2,37,Kozaki to rodzaj obuwia,True,1,1.5333549000060884
+perceptual_experiment2,38,Karaluch jest ssakiem,True,1,1.5501234999974258
+perceptual_experiment2,39,Geolog bada ziemiê,True,1,2.5334394999954384
+perceptual_experiment2,40,Owca to zwierzê roœlino¿erne,True,1,1.883451599998807
+perceptual_experiment2,41,Zupa jarzynowa jest z owoców,True,1,2.3334175999989384
+perceptual_experiment2,42,Plecak nosi siê na plecach,True,1,1.833430099999532
+perceptual_experiment2,43,Oko umo¿liwia dotyk.,True,1,1.5334535000001779
