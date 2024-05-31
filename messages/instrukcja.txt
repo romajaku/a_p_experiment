@@ -11,6 +11,8 @@ Witamy w badaniu dotyczącym online i offline state'ów. Będziemy prezentować 
 A) Semantycznie - czy zdanie jest prawdziwe czy fałszywe
 B) Percepcyjnie - np. policz słowa zaczynające się na literę "b".
 
+Udzielaj odpowiedzi kiedy tylko jestes jej pewny, nie musisz czekac az doczytasz zdanie do konca.
+
 Przed przystąpieniem do badania prosimy o zapoznanie się z poniższymi instrukcjami. 
 
 Nasze zadanie zaczniemy od krótkiego treningu, w którym musisz skupiać się na wyświetlanych na ekranie zdaniach i zdecydować, które z nich jest prawdziwe, a które fałszywe.
@@ -26,7 +28,7 @@ Jeśli jesteś gotowy aby przejść do pierwszego bloku wciśnij SPACJE
 
 Teraz przechodzimy do głównej części zadania. 
 
-Ponownie prosimy, abyś ocenił/ła czy wyświetlanie zdanine jest prawdziwe, czy fałszywe. 
+Ponownie prosimy, abyś ocenił/ła czy wyświetlanie zdanie jest prawdziwe, czy fałszywe. 
 
 Prosimy o dokonanie wyboru za pomocą przycisków: 
 

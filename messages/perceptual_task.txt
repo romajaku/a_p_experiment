@@ -11,5 +11,7 @@ strzałka w lewo (<--) - TAK, W ZDANIU BYŁA LITERA ,,A''
 strzałka w prawo (-->) - NIE, W ZDANIU NIE BYŁO LITERY ,,A''
 
 Pamiętaj, aby przeczytać każde zdanie NA GŁOS.
+Naciśnij przycisk gdy tylko jesteś pewien odpowiedzi. 
+Nie musisz czekać aż doczytasz zdanie do końca ale nie przerywaj czytania na głos.
 
 Jeśli jesteś gotowy aby przejść do kolejnego bloku wciśnij SPACJE

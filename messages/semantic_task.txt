@@ -3,7 +3,7 @@
 
 W czasie wyświetlenia zdania na ekranie odpowiedz na pytanie:
 
-Czy wyświetlanie zdanine jest prawdziwe, czy fałszywe? 
+Czy wyświetlanie zdanie jest prawdziwe, czy fałszywe? 
 
 Prosimy o dokonanie wyboru za pomocą przycisków:
 
