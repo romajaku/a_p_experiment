@@ -34,6 +34,10 @@ results_recall = list()
 
 @atexit.register
 def SaveResults():
+    path = 'results'
+    isExist = os.path.exists(path)
+        if not isExist:
+        os.makedirs(path)
     date_time_str = datetime.strftime('%Y_%m_%d_%H_%M_%S')
     with open(f'results/beh_{part_ID}_{part_Age}_{part_Gend}_{date_time_str}.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
